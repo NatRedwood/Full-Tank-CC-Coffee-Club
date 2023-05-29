@@ -1,0 +1,1 @@
+containerSize = 500         # how many grams fit in the container

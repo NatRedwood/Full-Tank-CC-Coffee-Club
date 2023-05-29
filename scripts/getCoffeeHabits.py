@@ -1,0 +1,1 @@
+cupsPerDay = 3      # default setting
